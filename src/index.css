@@ -1,0 +1,42 @@
+.navbar-custom {
+  color: #8a4af3;
+}
+
+.navbar-custom .nav-link {
+  color: #8a4af3 !important;
+}
+
+.navbar-custom .navbar-brand {
+  color: #8a4af3 !important;
+}
+
+.custom-btn {
+  border: 1.4px solid #3a1ca6;
+  padding: 6px 10px;
+  text-align: center;
+  /* outline: none; */
+  border-radius: 5.5px;
+  background: white;
+}
+.custom-btn:hover {
+  background: #3a1ca6;
+  color: white !important;
+}
+
+.custom-bg {
+  background: linear-gradient(
+    100deg,
+    #7147de,
+    #805bde,
+    #5c26ec,
+    #3e00e2,
+    #470ce5,
+    #3e00e2
+  );
+  color: #fff;
+}
+
+.custom-bg a{
+  text-decoration: none;
+  color: #fff;
+}
